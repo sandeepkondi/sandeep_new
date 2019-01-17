@@ -1,0 +1,170 @@
+Probable Topics to be learnt on JSP
+
+1. What is JSP. How do they differ from Servlets?
+
+2. Life cycle of JSP (This topic is a good candidate for any framework like Spring MVC, JSF etc..)
+
+3. What is a JSP Directive and a JSP Scriptlet?
+
+4. Uses of <jsp:useBean> JSP use bean Tag?
+
+5. Define the life cycle of a JSP Tag. How do you write a custom tag to be used in JSP
+
+6. What are the implicit objects in a JSP?
+
+7. What is the difference between a <jsp:include> and a <jsp:forward> tag?
+
+8. How can a Java server page be debugged?
+
+9. What is JSP Expression Language? What are JSP EL's implicit objects?
+
+10. Java Standard Core Tag Library and different tags.
+
+
+
+Team
+
+In addition, you should also see these for the spring related topics.
+
+1. Spring MVC - Overview of the Spring framework and its Life cycle
+
+2. Spring application context, IOC, Web aware Application context and their usage
+
+3. Spring beans, their scope and usage
+
+4. Spring annotations/configurations, transactions, transaction propagation and strategy
+
+5. Spring repository, jdbc/jpa templates and database support.
+6. Spring security and its concepts (CSRF/CORS etc...)
+
+
+
+
+Interview Question:                                                                                                       
+1.Tell about yourself.
+2. Bigger Challenges you faced?
+3. Agile Methodology
+4. Epic 
+5. Best Practices for developing Java App
+6. Any framework for Unit testing?
+7. Mockito?
+8. Task -> Read a big file using thread implementation 
+9. Java 8 
+10. Streaming api
+What is Spring IOC?
+Have you worked on Spring boot or MVC?
+Why to use Hibernate?
+What is lazy loading in Hibernate?
+Explain OOPS concepts?
+Realtime example for OOPS concepts?
+Difference between abstract class and inheritance?
+What restful services have you used ?
+Have you worked on CSS, Linux, JSP and JS
+Have you worked on unit test cases both on the server and the client side ?
+What server did you use in the last project ?
+Write a program to reverse a palindrome string and reverse a number
+Did you used third party services (like amazon)?
+
+
+
+
+
+Have you worked on Linux commands
+What are all the conditional statements  in JSP?
+Have to worked on Custom tags?
+How to debug a jsp page?
+How to Debug JavaScript in UI Browser?
+How  to invoke Thirdparty webservices using Javascript?
+Expaling the Spring MVC Flow?
+How many types of Exceptions are there in java?
+How many ways to do Synchronization in java?
+How Transaction management works in java?
+HashMap internal implementation in java?
+How equals and hashcode methods works in java?
+How to write user defines exception?
+How to handle mutilple countries language selection in JSP ?
+Why do we use spring ? "Tell me about yourself
+Technical stack of your previous project?
+Why to use message queue's in the previous project?
+What ORM were you using in the previous project?
+What all micro services were you using ?
+Can you explain the project flow?
+What rest services did you use?
+What caching mechanism did you use and why was it necessary?
+How did you configure it in the project? Who made the technical decisions?
+How good in CSS?
+
+
+Command to list all the files and folders in the directory.
+Command to find the file.
+Command to search the keyword in a file.
+Command to create the directory.
+Command to provide the access.
+Explain about the Linked list and write the samples.
+Write the program to find the numbers divisible by 2 and store into a separate array.
+Write a program to print the provided number into reverse.
+What is the difference between Array and array list?
+When you use an array and array list.
+Write the program to print the odd index values.
+Explain about abstract class.
+Write the program to check is a palindrome.
+Handle the ArrayIndexoutofbound exception.
+Tell about spring and advantages.
+Difference between hash map and hash table.  What web application used in spring
+Write an HTML code with two input box and get the input from the text box and sum the values using the javascript.
+a. Javascript function should have the two arguments.
+Write the CSS class for the text box 1.
+Make the Test box 1 text color as Red.
+Write the CSS for all the button show as Red background color.
+Do not use any DIV or Table use the CSS and show each text boxes in two lines.
+Write CSS Padding Syntax.
+How to measure the margins (PX or PI)? What is the default measurement?
+
+
+
+
+
+How you do One been to another bean injuction in spring
+Data Structures
+How Hash map internally work in java
+Difference between HashMap and HashTable
+Spring MVC
+How to call objects in java script
+Difference between ArrayList and LinkedList
+What is dependency injection                                                                                                       
+Did you done debugging using eclipse and how you done
+How good in javascript
+How good in CSS
+Did you work any security issues and what are they
+Tell about MVC design pattern
+Did you used annotations in spring
+Did you work automation and what framework you used
+Did you write any Junit test cases
+What is your roles and responsibilities in the current project
+
+
+Security to access services
+About CSS Styles
+Did you used tomcat server
+Diff b/w GWT & JS
+Linux commands you know
+Spring features
+What is MVC
+Design patterns you know & what is factory pattern.
+What is dependency injection ?
+Hibernate diff b/w HQL & SQL ?
+Hashmap mechanism.
+Diff b/w Array list & Linked List ?
+Write code for String reverse & String palindrome 9. Hibernate cache mechanism 10. Hibernate elements.
+Spring controller
+Benefits of using dependency injection 13. Diff b/w == && equals()
+Did you worked on HTML and java script?
+Did you implement the web pages in previous projects and how you done?
+
+
+
+
+
+
+
+
